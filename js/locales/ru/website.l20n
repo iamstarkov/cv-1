@@ -16,7 +16,7 @@
 <lang_value "Русский, Украинский, Английский">
 
 <status_title "Статус:">
-<status_value "Доступен для найма">
+<status_value "Доступен для найма с февраля">
 
 <fact_1 "С 2000 года являюсь независимым разработчиком.">
 <fact_2 "Владею полным стеком технологий, необходимых для разработки веб-проектов.">
@@ -55,6 +55,8 @@
 <expirience_5 "Работа над фронтендом проекта Giftofoni">
 
 <expirience_6 "Разработка фронтенда Focal Point для компании Parallels  Software">
+
+<expirience_6 """Сотрудничество со студиями <a class='link-inside' href='http://www.alignedcode.com/'>Aligned Code</a>, Binary Garage, Yoke Labs, <a class='link-inside' href='http://territory.com.ua/'>CB Territory</a>.""">
 
 <skills "Навыки">
 

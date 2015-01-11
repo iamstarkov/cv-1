@@ -16,7 +16,7 @@
 <lang_value "Russian, Ukrainian, English">
 
 <status_title "Status:">
-<status_value "Available for hire">
+<status_value "Available for hire from february">
 
 <fact_1 "Freelance developer from 2000 till now">
 <fact_2 "Full-stack developer">
@@ -55,6 +55,8 @@
 <expirience_5 "Development of Giftofoni">
 
 <expirience_6 "Development of Focal Point for Parallels Software">
+
+<expirience_7 """Working with <a class='link-inside' href='http://www.alignedcode.com/'>Aligned Code</a>, Binary Garage, Yoke Labs, <a class='link-inside' href='http://territory.com.ua/'>CB Territory</a>.""">
 
 <skills "Skills">
 
